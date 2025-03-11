@@ -13,7 +13,7 @@ microservice:
         uri: http://USER-SERVICE/users/   
         
 test:
-  input: 7000   
+  input: 4000   
 
    
 logging:
