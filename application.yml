@@ -16,6 +16,6 @@ test:
   input: 500000    
 
    
-# logging:
-#   file:
-#     name : /Users/samuelkawuma/Library/Mobile\ Documents/com\~apple\~CloudDocs/Micro_Services_SpringBoot/logs/ecom-app.log
+logging:
+  file:
+    name : /Users/samuelkawuma/Library/Mobile\ Documents/com\~apple\~CloudDocs/Micro_Services_SpringBoot/logs/ecom-app.log
