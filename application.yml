@@ -12,8 +12,8 @@ microservice:
       fetchUserById:
         uri: http://USER-SERVICE/users/   
         
-# test:
-#   input: 500000    
+test:
+  input: 500000    
 
    
 # logging:
