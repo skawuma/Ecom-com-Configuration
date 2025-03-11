@@ -2,3 +2,20 @@ eureka:
   client:
     service-url:
       defaultZone : http://localhost:8761/eureka/
+microservice:
+  payment-service:
+    endpoints:
+      fetchPaymentById:
+        uri: http://PAYMENT-SERVICE/payments/
+  user-service:
+    endpoints:
+      fetchUserById:
+        uri: http://USER-SERVICE/users/   
+        
+# test:
+#   input: 500000    
+
+   
+# logging:
+#   file:
+#     name : /Users/samuelkawuma/Library/Mobile\ Documents/com\~apple\~CloudDocs/Micro_Services_SpringBoot/logs/ecom-app.log
