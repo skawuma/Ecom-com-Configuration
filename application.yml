@@ -18,4 +18,4 @@ test:
    
 logging:
   file:
-    name : /Users/samuelkawuma/Library/Mobile\ Documents/com\~apple\~CloudDocs/Micro_Services_SpringBoot/logs/ecom-app.log
+    name : /Users/samuelkawuma/Library/Mobile\ Documents/com\~apple\~CloudDocs/Micro_Services_SpringBoot/logs/ecom-app-log
