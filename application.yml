@@ -15,9 +15,5 @@ microservice:
 test:
   input: 4000   
 
-   
-logging:
-  logback:
-    rollingpolicy:
-      file-name-pattern:{/Users/samuelkawuma/Library/Mobile Documents/com~apple~CloudDocs/Micro_Services_SpringBoot/logs/ecom_log}
+
 
